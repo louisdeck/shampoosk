@@ -1,2 +1,3 @@
 # shampoosk
-reverse engineering / binary exploitation stuff
+
+will add txt in the future.. (reverse engineering / binary exploitation)
