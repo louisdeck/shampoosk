@@ -10,7 +10,6 @@ void get_flag()
 void register_name()
 {
     char buffer[21];
-
     printf("Name:\n");
     scanf("%s", buffer);
     printf("Hi there, %s\n", buffer);    

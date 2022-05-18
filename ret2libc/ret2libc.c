@@ -10,7 +10,6 @@ echo 0 | sudo tee /proc/sys/kernel/randomize_va_space
 void receive_feedback()
 {
     char buffer[21];
-
     puts("hey dude, waiting for your input :-)\n");
     gets(buffer);
 }
